@@ -12,3 +12,4 @@ print("susu ada. Budi menghitung uang, cukup")
 print('"ada telur? sekalian kalo ada bu, 6 butir."')
 print("ada.")
 print("Budi pun membeli satu botol susu dan 6 butir telur, kemudian Ia pulang.")
+
