@@ -18,6 +18,9 @@ print("Budi pun pulang menyampaikan hasilnya kepada Ibunya.")
 
 #Percabangan
 jumlah_botol_susu = 75
+jumlah_telur = 150
+print(f"Jumlah botol susu {jumlah_botol_susu} botol")
+print(f"jumlah telur {jumlah_telur} butir")
 
 if jumlah_botol_susu > 0:
     print("budi menghitung uang dan ternyata cukup")
